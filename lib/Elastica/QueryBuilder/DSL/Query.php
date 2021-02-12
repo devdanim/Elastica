@@ -74,7 +74,7 @@ class Query implements DSL
      */
     public function match($field = null, $values = null)
     {
-        return new Match($field, $values);
+        return new MatchQuery($field, $values);
     }
 
     /**
