@@ -70,7 +70,7 @@ class Query implements DSL
      * @param string $field
      * @param mixed  $values
      *
-     * @return Match
+     * @return MatchQuery
      */
     public function match($field = null, $values = null)
     {
