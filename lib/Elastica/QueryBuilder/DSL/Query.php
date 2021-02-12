@@ -16,7 +16,7 @@ use Elastica\Query\GeoDistance;
 use Elastica\Query\HasChild;
 use Elastica\Query\HasParent;
 use Elastica\Query\Ids;
-use Elastica\Query\Match;
+use Elastica\Query\MatchQuery;
 use Elastica\Query\MatchAll;
 use Elastica\Query\MatchNone;
 use Elastica\Query\MoreLikeThis;
