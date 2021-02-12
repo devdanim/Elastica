@@ -1,5 +1,5 @@
 {
-    "name": "ruflin/elastica",
+    "name": "dnm/elastica",
     "type": "library",
     "description": "Elasticsearch Client",
     "keywords": [
